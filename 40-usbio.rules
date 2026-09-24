@@ -1,0 +1,2 @@
+SUBSYSTEMS=="usb",KERNEL=="ttyACM*",ATTRS{idVendor}=="1b4f",ATTRS{idProduct}=="9206",SYMLINK+="USBIO%n",GROUP="dialout",MODE="0666"
+
