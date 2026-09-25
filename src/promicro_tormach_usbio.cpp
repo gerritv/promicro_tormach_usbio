@@ -1,3 +1,5 @@
+#include <arduino.h>
+
 #define INPUT0 A0
 #define INPUT1 A1
 #define INPUT2 A2
